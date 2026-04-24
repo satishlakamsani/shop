@@ -13,6 +13,7 @@
 1. Dosa Batter
 2. oil
 3. karam
+<<<<<<< HEAD
 4. onions
 
 ##Egg Dosa
@@ -29,3 +30,5 @@
 ##NeyyiKaramDosa
 1. Dosa Batter
 2. Erra Karram
+=======
+>>>>>>> 265802e (karam added)

@@ -17,3 +17,4 @@
 
 ##Egg Dosa
 1. Dosa Batter
+2. 1 egg

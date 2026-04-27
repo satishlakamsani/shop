@@ -14,3 +14,7 @@
 2. oil
 3. karam
 4. onions
+
+##Egg Dosa
+1. Dosa Batter
+2. 2 Eggs

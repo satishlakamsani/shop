@@ -18,3 +18,4 @@
 ##Egg Dosa
 1. Dosa Batter
 2. 1 egg
+3. Add oil

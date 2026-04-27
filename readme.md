@@ -17,5 +17,5 @@
 
 ##Egg Dosa
 1. Dosa Batter
-2. 1 egg
+2. 1/2 egg
 3. Add oil

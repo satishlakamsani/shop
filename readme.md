@@ -19,3 +19,9 @@
 1. Dosa Batter
 2. 1/2 egg
 3. Add oil
+
+##Paneer Dosa
+1. Dosa Batter
+2. Paneer Added
+3. Carrot BeetRoot
+4. Ghee
